@@ -1,0 +1,10 @@
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\bin\Debug\UDP_module.exe
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\bin\Debug\UDP_module.pdb
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\obj\x86\Debug\UDP_module.Form1.resources
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\obj\x86\Debug\UDP_module.Properties.Resources.resources
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\obj\x86\Debug\UDP_module.csproj.GenerateResource.Cache
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\obj\x86\Debug\UDP_module.exe
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\obj\x86\Debug\UDP_module.pdb
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\bin\Debug\WebCam_Capture.dll
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\obj\x86\Debug\UDP_module.csprojResolveAssemblyReference.cache
+c:\users\bzhan\documents\visual studio 2010\Projects\UDP_module\UDP_module\obj\x86\Debug\UDP_module.videochat.resources
